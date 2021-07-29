@@ -1,0 +1,5 @@
+Welcome to cafeteria
+
+Coffee
+Tea
+Milk
